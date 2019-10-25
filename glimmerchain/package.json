@@ -1,0 +1,12 @@
+{
+  "name": 'glimmerchain',
+  "version": '1.0.0'
+  "description": 'a simple blockchain project'
+  "scripts":{
+    "test": 'echo \"error: no test specified\" && exit 1'
+  },
+
+  "devDependencies": {
+    "jest":"^23.6.0"
+  }
+}
